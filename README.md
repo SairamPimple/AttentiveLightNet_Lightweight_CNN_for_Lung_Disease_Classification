@@ -1,4 +1,4 @@
-# Efficient Lung Disease Detection Using AttentiveLightNet  
+# Efficient Lung Disease Classification Using AttentiveLightNet  
 ### A Novel Lightweight CNN with Attention and Adaptive Dropout  
 
 This repository contains the implementation of **AttentiveLightNet**, a novel deep learning model designed for highly efficient and accurate binary classification of lung diseases (**Normal vs. Pneumonia**) from chest X-ray images.  
