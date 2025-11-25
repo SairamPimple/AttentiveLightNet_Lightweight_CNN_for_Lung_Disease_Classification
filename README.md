@@ -95,8 +95,9 @@ weighted avg       0.83      0.83      0.82       624
 ```
 
 ### Confusion Matrix
-![Confusion Matrix](link-to-your-cm-image.png) ### Training & Validation Curves
-![Loss/Accuracy](link-to-your-loss-acc-image.png) ````
+![Confusion Matrix](results/confusion_matrix.png) 
+### Training & Validation Curves
+![Loss/Accuracy](results/training_history.png) ````
 
 ---
 
