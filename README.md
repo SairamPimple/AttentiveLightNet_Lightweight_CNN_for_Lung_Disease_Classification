@@ -86,12 +86,14 @@ The model was trained on an imbalanced dataset, using class weights to compensat
 ```
               precision    recall  f1-score   support
 
-      Normal       0.86      0.65      0.74       234
-   Pneumonia       0.81      0.94      0.87       390
+      Normal       0.97      0.71      0.82       234
+   Pneumonia       0.85      0.98      0.91       390
 
-    accuracy                           0.83       624
-   macro avg       0.84      0.79      0.80       624
-weighted avg       0.83      0.83      0.82       624
+    accuracy                           0.88       624
+   macro avg       0.91      0.85      0.87       624
+weighted avg       0.89      0.88      0.88       624
+
+Accuracy of the Model: 88.3%
 ```
 
 ### Confusion Matrix
