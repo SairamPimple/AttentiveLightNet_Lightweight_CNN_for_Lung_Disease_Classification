@@ -4,9 +4,7 @@ This is an end-to-end deep learning project that builds, trains, and deploys a c
 
 The core of this project is a novel architecture named **AttentiveLightNet**, which incorporates modern deep learning techniques to achieve high accuracy on an imbalanced dataset.
 
-**Live Demo:** [Link to your hosted Gradio app on Hugging Face Spaces]
-
-![Demo GIF](link-to-your-demo-gif.gif) ## Contents
+## Contents
 - [Problem Statement](#problem-statement)
 - [Model Architecture](#model-architecture-attentivelightnet)
 - [Project Structure](#project-structure)
