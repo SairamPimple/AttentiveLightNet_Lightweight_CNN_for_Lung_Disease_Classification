@@ -99,7 +99,7 @@ Accuracy of the Model: 88.3%
 ### Confusion Matrix
 ![Confusion Matrix](results/confusion_matrix.png) 
 ### Training & Validation Curves
-![Loss/Accuracy](results/training_history.png) ````
+![Loss/Accuracy](results/training_history.png) 
 
 ---
 
