@@ -96,7 +96,6 @@ weighted avg       0.83      0.83      0.82       624
 Accuracy of the Model: 82.7%
 
 ```
-
 ### Confusion Matrix
 ![Confusion Matrix](results/confusion_matrix.png) 
 ### Training & Validation Curves
