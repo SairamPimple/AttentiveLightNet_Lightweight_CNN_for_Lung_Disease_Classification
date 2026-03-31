@@ -77,7 +77,7 @@ To start the interactive Gradio demo, run:
 ```bash
 streamlit run app.py
 ```
-This will launch a local web server. You can also upload this script to [Hugging Face Spaces](https://huggingface.co/spaces) for a free, shareable public demo.
+This will launch a local web server.
 
 ## Results
 The model was trained on an imbalanced dataset, using class weights to compensate. It achieved **88.3% accuracy** on the held-out test set.
